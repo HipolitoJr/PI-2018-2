@@ -37,7 +37,7 @@ Repositório  destinado ao curso de Programação para Internet
     * Rodrigo Souza (github.com/RodrigoAzuos)
     * José Vinícius (github.com/vinilopes1)
 
-### Hospedai:
+#### Hospedai:
  * Solução para controle de Hospedagens em Hoteis
  * Disponível em:
     * https://github.com/HipolitoJr/hospedai-api
