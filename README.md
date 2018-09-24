@@ -5,6 +5,8 @@ Repositório  destinado ao curso de Programação para Internet
 ## Informações Pessoais
 
 * Nome: Hipólito Ribeiro Cavalcante Júnior
+* Idade: 18 anos
+* Estagiário em Grupo Educacional CEV
 * Email: hipolitocavalcantejr@gmail.com
 * WhatsApp: (86) 98179-0109
 * Telegram: @HipolitoJr
