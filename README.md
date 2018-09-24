@@ -43,10 +43,10 @@ Repositório  destinado ao curso de Programação para Internet
  * Disponível em:
     * https://github.com/HipolitoJr/hospedai-api
 
-### Expectativa PI-2018.2:
+## Expectativa PI-2018.2:
 
 * Aprofundamento em desenvolvimento serve-side com Django e DRF
 
-### Possíveis Temas:
+## Possíveis Temas:
 
 * Upload/Download de imagens com DRF + Android Kotlin
