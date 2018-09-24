@@ -10,7 +10,7 @@ Repositório  destinado ao curso de Programação para Internet
 * Email: hipolitocavalcantejr@gmail.com
 * WhatsApp: (86) 98179-0109
 * Telegram: @HipolitoJr
-* GitHub: github.com/HipolitoJr
+* GitHub: https://github.com/HipolitoJr
 
 ## Habilidades e Conhecimentos
 
@@ -37,8 +37,8 @@ Repositório  destinado ao curso de Programação para Internet
  * Disponível em:
     * http://api-condomais.herokuapp.com/admin/
  * Equipe:
-    * Rodrigo Souza (github.com/RodrigoAzuos)
-    * José Vinícius (github.com/vinilopes1)
+    * Rodrigo Souza (https://github.com/RodrigoAzuos)
+    * José Vinícius (https://github.com/vinilopes1)
 
 #### Hospedai:
  * Solução para controle de Hospedagens em Hoteis
