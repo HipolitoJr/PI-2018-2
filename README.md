@@ -6,7 +6,8 @@ Repositório  destinado ao curso de Programação para Internet
 
 * Nome: Hipólito Ribeiro Cavalcante Júnior
 * Email: hipolitocavalcantejr@gmail.com
-* WhatsApp e Telegram: (86) 98179-0109
+* WhatsApp: (86) 98179-0109
+* Telegram: @HipolitoJr
 * GitHub: github.com/HipolitoJr
 
 ## Habilidades e Conhecimentos
