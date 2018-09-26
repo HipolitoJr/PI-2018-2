@@ -14,7 +14,8 @@ Repositório  destinado ao curso de Programação para Internet
 
 ## Habilidades e Conhecimentos
 
-* Programação Android: Koltin e JAVA
+* Técnico em Informática
+* Programação Android: Kotlin e JAVA
 * Programação WEB (serve-side): Python + Django e Django Rest Framework
 * Conhecimentos básicos em: Linguagem C e C++, JavaScript, Banco de dados (PostgreSQL)...
 * Versionamento de códigos usando GitHub
