@@ -1,0 +1,66 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang = "pt-BR">
+<head>
+	<title></title>
+	<meta charset="UTF-8"/>
+    <meta http-equiv="refresh" content="8;">
+	<link rel="stylesheet" href="{% static "styles/bootstrap.css" %}">
+	<link rel="stylesheet" href="{% static "styles/main.css" %}">
+</head>
+
+<style type="text/css">
+    body{
+        margin: 8px;
+    }
+
+	#titulo{
+		font-weight: bold;
+	}
+
+	table{
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	}
+</style>
+
+<body style="">
+    <div class="col-md-12">
+
+        <header class="row">
+            <div class="header">
+                <ul class="nav nav-pills pull-right">
+                    <li>
+                        <a href="#" ></a>
+                    </li>
+                    <li>
+                        <a href="#" ></a>
+                    </li>
+                </ul>
+                <h3 class="text-muted"><a href="#">BuscaSemPé</a></h3>
+            </div>
+        </header>
+    
+        <div class="row" style="background: white; padding: 10px">
+
+            <nav class="col-md-2">
+                {% block nav %}
+                {% endblock %}
+            </nav>
+            
+            <div role="main" class="col-md-8">
+                {% block body %}
+                {% endblock %}
+            </div>
+
+
+        </div>
+
+            <aside role="complementary" class="col-md-2">
+                {% block aside %}
+                {% endblock %}
+            </aside>
+        
+    </div>
+</body>
+</html>
